@@ -1,0 +1,59 @@
+{
+  "portfolios": [
+    {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news.html"
+    },
+     {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news2.html"
+    },
+     {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news.html"
+    },
+     {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news2.html"
+    },
+     {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news2.html"
+    },
+     {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news2.html"
+    },
+     {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news2.html"
+    },
+     {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news2.html"
+    },
+     {
+    	"title":"Loren Lpsum portfolios",
+    	"sub_title":"By Mercedes-Bens company",
+    	"background-color":"#f8f7f4",
+    	"link":"http://mecerdestemp.ucoz.com/news2.html"
+    }
+  ]
+}
+

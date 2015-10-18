@@ -1,0 +1,26 @@
+{
+  "status":"1",
+  "message":"logout succes",
+  "prof_img_upload":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfv4BgIba-R9bgypJAHKUGDIDI6NFwtF9mjCg7vNmagryEGemf",
+  "user_name":"ユーザ名",
+  "user_name_yomi":"ユーザ名読み",
+  "biography":"自己紹介",
+  "sex":"male",
+  "birthday_year":"2014",
+  "hometown":"出身地",
+  "job":"仕事",
+  "history1":"経歴1",
+  "history2":"経歴2",
+  "history3":"経歴3",
+  "user_url1":"ブログURL",
+  "user_url2":"Facebook",
+  "user_url3":"Twitter",
+  "mail_delivery_flg":"1",
+  "delivery_name":"受取人氏名",
+  "delivery_zip1":"郵便番号",
+  "delivery_zip2":"郵便番号",
+  "delivery_address":"配送先住所",
+  "delivery_phone":"連絡先（ハイフンなし）"
+  
+  
+}

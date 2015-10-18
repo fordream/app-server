@@ -1,0 +1,7 @@
+
+{	 "contact":
+	{
+	  "img": "http://www.qas.org.uk/wp-content/uploads/2012/10/IMG_0748-150x80.jpg",
+	  "text":"Contact for me\nUse form to send message for me."
+	}
+}

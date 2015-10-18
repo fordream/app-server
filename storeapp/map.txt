@@ -1,0 +1,9 @@
+{
+  "map":{
+	  "numTxt":"(0)",
+	  "title":"My Company",
+	  "description":"wellcom to My Company",
+	  "lat": "48.8567",
+	  "lng":"2.3508"
+  }
+}

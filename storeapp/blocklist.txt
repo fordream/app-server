@@ -1,0 +1,8 @@
+{
+  "blocklist": [
+    	{
+    		"name":"content-1",
+    		"linkzip":"https://app-server.googlecode.com/svn/trunk/storeapp/content-1.zip"
+    	}
+   ]
+}

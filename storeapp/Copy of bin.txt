@@ -1,0 +1,47 @@
+{
+  "status": "PROFESSIONAL",
+  "main-bin":{
+  		"image":"",
+  		"icon-logo":"",
+  		"short-description":"",
+  		"backgound-color":"123456",
+  		"socials":[
+  			{"link-icon":"","link":""},
+  			{"link-icon":"","link":""},
+  			{"link-icon":"","link":""}
+  		]
+  },
+  "bins": [
+    {"type":"MAP","bin_type":"BIG","img":"http://app-server.googlecode.com/svn/trunk/storeapp/block/img5.png","header":"MAP","sub_header":"MAP SUB","sub_icon":"http://a.deviantart.net/avatars/j/e/jellyfish2.gif?1"},
+    {"type":"GALLERY","bin_type":"","img":"http://app-server.googlecode.com/svn/trunk/storeapp/block/img7.png","header":"GALLERY","sub_header":"GALLERY SUB","sub_icon":"http://a.deviantart.net/avatars/j/e/jellyfish2.gif?1"},
+    {"type":"PROFOLIO","bin_type":"","img":"http://app-server.googlecode.com/svn/trunk/storeapp/block/img6.png","header":"PROFOLIO","sub_header":"PROFOLIO SUB","sub_icon":"http://a.deviantart.net/avatars/j/e/jellyfish2.gif?1"},
+    {"type":"CONTACT","bin_type":"","img":"http://app-server.googlecode.com/svn/trunk/storeapp/block/img4.png","header":"CONTACT","sub_header":"CONTACT SUB","sub_icon":"http://a.deviantart.net/avatars/j/e/jellyfish2.gif?1"},
+    {"type":"NEW","bin_type":"","img":"http://app-server.googlecode.com/svn/trunk/storeapp/block/img2.png","header":"NEW","sub_header":"NEW SUB","sub_icon":"http://a.deviantart.net/avatars/j/e/jellyfish2.gif?1"},
+    {"type":"ABOUNT","bin_type":"","img":"http://app-server.googlecode.com/svn/trunk/storeapp/block/img3.png","header":"ABOUNT","sub_header":"ABOUNT SUB","sub_icon":"http://a.deviantart.net/avatars/j/e/jellyfish2.gif?1"}
+  ],
+  "about":{
+   		"img": "http://www.qas.org.uk/wp-content/uploads/2012/10/IMG_0748-150x80.jpg",
+  		"text":"The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		The oldest professional society dedicated to the advancement of knowledge about sexuality.The Society for the Scientific Study of Sexuality (SSSS) is an international organization dedicated to the advancement of knowledge about sexuality. It is the oldest organization of professionals interested in the study of sexuality in the United States. SSSS brings together an interdisciplinary group of professionals who believe in the importance of both the production of quality research and the clinical, educational, and social applications of research related to all aspects of sexuality.
+  		"
+  },
+  "contact":{
+  		"img": "http://www.qas.org.uk/wp-content/uploads/2012/10/IMG_0748-150x80.jpg",
+  		"text":"Contact for me\nUse form to send message for me."
+  },
+  "map":{
+	  "numTxt":"(0)",
+	  "title":"My Company",
+	  "description":"wellcom to My Company",
+	  "lat": "48.8567",
+	  "lng":"2.3508"
+  }
+}
